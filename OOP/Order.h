@@ -8,7 +8,7 @@ protected:
 	string customer;
 	string item;
 public:
-	order(string date = "", string customer = "", string item= "");
+	order(string date = "", string customer = "", string item = "");
 	virtual string get_order();
 	~order();
 };

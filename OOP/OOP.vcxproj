@@ -150,14 +150,22 @@
     <ClCompile Include="Storage.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BackRep.h" />
     <ClInclude Include="Backup.h" />
     <ClInclude Include="cmd.h" />
     <ClInclude Include="deleted.h" />
+    <ClInclude Include="DelRep.h" />
     <ClInclude Include="History.h" />
+    <ClInclude Include="HistRep.h" />
     <ClInclude Include="Limited.h" />
     <ClInclude Include="notebooks.h" />
+    <ClInclude Include="NoteRep.h" />
     <ClInclude Include="Order.h" />
+    <ClInclude Include="OrderRep.h" />
+    <ClInclude Include="Rep.h" />
     <ClInclude Include="Storage.h" />
+    <ClInclude Include="StorRep.h" />
+    <ClInclude Include="StrictRep.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Bak.txt" />

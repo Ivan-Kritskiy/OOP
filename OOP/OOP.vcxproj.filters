@@ -68,6 +68,30 @@
     <ClInclude Include="Backup.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Rep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NoteRep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StrictRep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StorRep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OrderRep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DelRep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HistRep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BackRep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="His.txt">

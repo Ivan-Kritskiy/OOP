@@ -1,2 +1,4 @@
 28.09.2020,Andriy,<<Pen:feather>>,
 30.09.2020,Bogdan,<<Pen:red>>,
+10.10.2020,Ko,<<Notebook:88,horizontal,fancy>>,
+26.10.2020,Bjorn,<<Notebook:96,horizontal,fancy>>,

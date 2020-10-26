@@ -1,8 +1,8 @@
 Notebook:96,horizontal,fancy
 Notebook:24,horizontal,fancy
-Notebook:48,horizontal,fancy
 Notebook:12,horizontal,fancy
-Pen:black
 Notebook:24,horizontal,fancy
-Notebook:48,horizontal,fancy,<<rare>>,<<Mummintroll>>
-Pen:purple
+Notebook:96,horizontal,fancy
+Notebook:24,horizontal,fancy
+Notebook:88,horizontal,fancy,<<rare>>,<<Mumintroll>>
+Notebook:88,diagonal,fancy,<<rare>>,<<Mumintroll>>

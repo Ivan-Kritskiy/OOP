@@ -9,7 +9,7 @@ protected:
 	string parody;
 public:
 	string get_info();
-	Limited(int,string,string,string,string);
+	Limited(int = 24,string="horizontal",string="fancy",string="rare",string="mumintroll");
 };
 
 #endif
